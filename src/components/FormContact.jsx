@@ -46,7 +46,7 @@ export const FormContact = () => {
           >
           <Form>
             <Container>
-              <h3>Acces Form</h3>
+              <h3>Login Form</h3>
               <label htmlFor='name'>Name
               <Field
                 id='name'
@@ -76,7 +76,7 @@ export const FormContact = () => {
               <ErrorMessage name='password'>{msg => (
                 <Error>{msg}</Error>
               )}</ErrorMessage>
-              <label htmlFor='message'>Message
+              <label htmlFor='message'>Comments
               <Field
                 as='textarea'
                 id='message'
