@@ -30,3 +30,6 @@ para instalar las dependencias, y luego:
 
 Abre [http://localhost:3000](http://localhost:3000) para ver la aplicación en tu navegador.
 
+## **Probar la aplicación en producción**
+
+Abre https://calm-hummingbird-369f6d.netlify.app para ver la aplicación deployada en tu navegador.
